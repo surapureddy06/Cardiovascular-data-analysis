@@ -14,6 +14,8 @@ Statistical Analysis: Spearman’s correlation and Kruskal-Wallis tests to ident
 Predictive Modeling: Evaluated and compared: Random Forest XGBoost FastAI Tabular Explainability: Used SHAP to understand feature importance, identifying key predictors such as education levels, income, and racial disparities.
 
 /CVDdata_finalprocesseddf.csv: Contains processed datasets
+
 /model_and_stats.ipynb : Python scripts for data preprocessing, modeling, and visualization.
 README.md: Project documentation.
+
 Data - the data of the total death can be requested from the indiana state department.
