@@ -18,4 +18,4 @@ Predictive Modeling: Evaluated and compared: Random Forest XGBoost FastAI Tabula
 /model_and_stats.ipynb : Python scripts for data preprocessing, modeling, and visualization.
 README.md: Project documentation.
 
-Data - the data of the total death can be requested from the indiana state department.
+Data - the data of the total death can be requested from the Indiana state department.
